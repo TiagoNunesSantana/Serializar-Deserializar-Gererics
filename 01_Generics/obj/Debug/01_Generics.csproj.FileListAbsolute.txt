@@ -1,0 +1,7 @@
+C:\Projetos\Topicos Avancados\01_Generics\bin\Debug\01_Generics.exe.config
+C:\Projetos\Topicos Avancados\01_Generics\bin\Debug\01_Generics.exe
+C:\Projetos\Topicos Avancados\01_Generics\bin\Debug\01_Generics.pdb
+C:\Projetos\Topicos Avancados\01_Generics\obj\Debug\01_Generics.csprojAssemblyReference.cache
+C:\Projetos\Topicos Avancados\01_Generics\obj\Debug\01_Generics.csproj.CoreCompileInputs.cache
+C:\Projetos\Topicos Avancados\01_Generics\obj\Debug\01_Generics.exe
+C:\Projetos\Topicos Avancados\01_Generics\obj\Debug\01_Generics.pdb
